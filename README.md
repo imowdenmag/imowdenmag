@@ -1,5 +1,86 @@
 # About Me:
-Creative Technologist · Software Engineer · Media Producer<br>Founder of Aurelo Technologies and Aurelo Mediaworks, based in Accra, Ghana.<br>I build full-stack digital solutions and craft immersive visual experiences for live events and media production. My work sits at the intersection of technology, storytelling, and live production.<br>Aurelo Technologies is the digital solutions arm. I design and build full-stack applications: admin dashboards, APIs, authentication systems, CMS platforms, and database-driven products. Clean architecture, modular code, and intuitive UI/UX are non-negotiables.<br>Aurelo Mediaworks is the media and creative arm, handling branding, digital marketing, music distribution, event production, publicity, and PR for artists and ministries.<br>Stack: CSS/SCSS, JavaScript, TypeScript, Python, Flask, Django, FastAPI, Node.js, Next.js, Swift, Kotlin, Docker, npm.<br>Beyond the code, I serve as a VJ and Visual Effects Designer at major concerts and album recordings across Ghana, creating animated lyrics, screen effects, and immersive stage visuals for large-scale live experiences.
+# Hi, I'm Owden Magnusen 👋
+
+### Systems Architect · Backend Engineer · DevOps Engineer · Cloud Engineer
+
+Founder of **Aurelo Technologies** and **Aurelo Mediaworks**, based in Accra, Ghana.
+
+I design and build scalable software systems, cloud infrastructure, and AI-powered platforms. My work focuses on backend engineering, system architecture, DevOps, distributed systems, and developer tooling, with an emphasis on building reliable products that are easy to maintain and scale.
+
+## 🚀 What I'm Building
+
+### Aurelo Technologies
+Building software products that leverage cloud computing, AI, and automation to solve real-world problems.
+
+Current areas of focus include:
+- Backend APIs and microservices
+- System architecture and distributed systems
+- AWS cloud infrastructure
+- DevOps and Platform Engineering
+- AI-powered applications and workflow automation
+- Authentication and identity systems
+- Developer platforms and internal tooling
+
+### Aurelo Mediaworks
+A creative technology company delivering media production, digital experiences, branding, event production, music distribution, publicity, and PR for artists, ministries, and organizations.
+
+## 💻 Tech Stack
+
+**Languages**
+- TypeScript
+- Python
+- JavaScript
+- Swift
+- Kotlin
+- SQL
+
+**Backend**
+- FastAPI
+- Django
+- Flask
+- Node.js
+- Express
+- REST APIs
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- Linux
+- GitHub Actions
+- CI/CD
+- Nginx
+- Caddy
+
+**Databases**
+- PostgreSQL
+- MySQL
+- SQLite
+- Supabase
+- Redis
+
+**Frontend**
+- Next.js
+- React
+- TypeScript
+- SCSS
+- Tailwind CSS
+
+## 🎯 Current Interests
+
+- Systems Design & Software Architecture
+- Backend Engineering
+- Cloud Computing
+- DevOps & Platform Engineering
+- AI Engineering
+- Distributed Systems
+- Infrastructure as Code
+- Developer Experience (DX)
+
+## 🎬 Beyond Software
+
+Before focusing on software engineering full-time, I built large-format concert visuals and immersive LED experiences for major gospel artists, conferences, and live productions across Ghana. That background continues to influence how I build products by combining technical excellence with thoughtful design and exceptional user experiences.
+
+I enjoy solving difficult engineering problems, designing systems that scale, and building technology that creates lasting impact.
 
 
 ## Socials:
