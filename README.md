@@ -1,4 +1,3 @@
-# About Me:
 # Hi, I'm Owden Magnusen 👋
 
 ### Systems Architect · Backend Engineer · DevOps Engineer · Cloud Engineer
@@ -7,7 +6,7 @@ Founder of **Aurelo Technologies** and **Aurelo Mediaworks**, based in Accra, Gh
 
 I design and build scalable software systems, cloud infrastructure, and AI-powered platforms. My work focuses on backend engineering, system architecture, DevOps, distributed systems, and developer tooling, with an emphasis on building reliable products that are easy to maintain and scale.
 
-## 🚀 What I'm Building
+## What I'm Building
 
 ### Aurelo Technologies
 Building software products that leverage cloud computing, AI, and automation to solve real-world problems.
@@ -24,7 +23,7 @@ Current areas of focus include:
 ### Aurelo Mediaworks
 A creative technology company delivering media production, digital experiences, branding, event production, music distribution, publicity, and PR for artists, ministries, and organizations.
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 - TypeScript
@@ -36,6 +35,7 @@ A creative technology company delivering media production, digital experiences, 
 
 **Backend**
 - FastAPI
+- Starlette
 - Django
 - Flask
 - Node.js
@@ -44,6 +44,7 @@ A creative technology company delivering media production, digital experiences, 
 
 **Cloud & DevOps**
 - AWS
+- GCP
 - Docker
 - Linux
 - GitHub Actions
@@ -65,7 +66,7 @@ A creative technology company delivering media production, digital experiences, 
 - SCSS
 - Tailwind CSS
 
-## 🎯 Current Interests
+## Current Interests
 
 - Systems Design & Software Architecture
 - Backend Engineering
@@ -76,7 +77,7 @@ A creative technology company delivering media production, digital experiences, 
 - Infrastructure as Code
 - Developer Experience (DX)
 
-## 🎬 Beyond Software
+## Beyond Software
 
 Before focusing on software engineering full-time, I built large-format concert visuals and immersive LED experiences for major gospel artists, conferences, and live productions across Ghana. That background continues to influence how I build products by combining technical excellence with thoughtful design and exceptional user experiences.
 
