@@ -31,9 +31,9 @@ A creative technology company delivering media production, digital experiences, 
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | TypeScript, Python, JavaScript, Swift, Kotlin, SQL |
-| **Backend** | FastAPI, Starlette, Django, Flask, Node.js, Express, REST APIs |
-| **Cloud & DevOps** | AWS, GCP, Docker, Linux, GitHub Actions, CI/CD, Nginx, Caddy |
+| **Languages** | TypeScript, Python, JavaScript, Swift, Kotlin, SQL, GO |
+| **Backend** | FastAPI, Starlette, Django, Flask, Node.js, Express, REST APIs, RabbitMQ |
+| **Cloud & DevOps** | AWS, GCP, Docker, Linux, GitHub Actions, CI/CD, Nginx, Caddy, GitLab |
 | **Databases** | PostgreSQL, MySQL, SQLite, Supabase, Redis |
 | **Frontend** | Next.js, React, TypeScript, SCSS, Tailwind CSS |
 
